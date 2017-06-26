@@ -3,4 +3,4 @@ var apples = {
     price:0.99
 }
 
-var products =[apples]
+var products =[apples, oranges, babanas,mangoes,pears]
